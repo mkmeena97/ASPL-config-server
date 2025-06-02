@@ -3,7 +3,7 @@ build:
   version: "1.1"
 
 loans:
-  message: "Welcome to ASPL Bank Loans related Production APIs"
+  message: "Welcome to ASPL Bank Loans related Prod APIs"
   contactDetails:
     name: "Tejas - Product Lead"
     email: "tejas@audilitycssolutions"
